@@ -8,6 +8,7 @@ export EMAIL_ADDRESS="###" # Your Gmail
 
 export GMAIL_APP_PASS="###" # Gmail App Specific Password https://support.google.com/accounts/answer/185833?hl=en
 
+<<<<<<< HEAD
 export GMAPS_KEY="###" # Google Maps API Key https://developers.google.com/maps/documentation/javascript/get-api-key
 ```
 
@@ -18,3 +19,4 @@ $> nohup python3 -u server.py > app.log &
 ```
 
 which will save output to app.log.
+
