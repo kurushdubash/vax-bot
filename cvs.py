@@ -1,6 +1,7 @@
 import googlemaps
 import requests
 import util
+import os
 from datetime import datetime
 
 api_key = os.environ['GMAPS_KEY']
