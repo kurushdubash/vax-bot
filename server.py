@@ -10,7 +10,15 @@ def main():
 	while True:
 		try:
 			wg.check_walgreens()
+		except Exception as e:
+			print(e)
+
+		try:
 			myturn.check_myturn()
+		except Exception as e:
+			print(e)
+			
+		try:
 			cvs.check_cvs()
 		except Exception as e:
 			print(e)
