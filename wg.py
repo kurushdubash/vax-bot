@@ -21,7 +21,7 @@ cookies = {
     'at_check': 'true',
     'XSRF-TOKEN': 'FXIBz5aA0mzHOQ==.tiRB+kt5CRbMsXeGiSixZcyEMagyZvoG/zPXlS/JtFk=',
     'session_id': '178ff0f4-8669-4fec-9e2a-837557a5389e',
-    # 'dtCookie': f"3{6476286F7449BD53BCA740894F85D229|0eed2717dafcc06d|1}",
+    'dtCookie': "3$6476286F7449BD53BCA740894F85D229|0eed2717dafcc06d|1",
     'AMCVS_5E16123F5245B2970A490D45%40AdobeOrg': '1',
     'gRxAlDis': 'N',
     'mbox': 'PC#a88d1c15e0354b9d9ef73bd0a8940f8c.35_0#1681010205|session#3e90dbf007d04340821bd784fa764102#1617767263',
